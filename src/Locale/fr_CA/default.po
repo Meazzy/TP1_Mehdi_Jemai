@@ -1,0 +1,536 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2020-10-19 22:00+0000\n"
+"PO-Revision-Date: 2020-10-19 18:16-0400\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.4.1\n"
+"Last-Translator: \n"
+"Language: fr_CA\n"
+
+#: Controller/CompaniesController.php:77 Controller/CompaniesController.php:102
+msgid "The company has been saved."
+msgstr ""
+
+#: Controller/CompaniesController.php:81 Controller/CompaniesController.php:106
+msgid "The company could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CompaniesController.php:124
+msgid "The company has been deleted."
+msgstr ""
+
+#: Controller/CompaniesController.php:126
+msgid "The company could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/DeliveriesController.php:57
+#: Controller/DeliveriesController.php:82
+msgid "The delivery has been saved."
+msgstr ""
+
+#: Controller/DeliveriesController.php:61
+#: Controller/DeliveriesController.php:86
+msgid "The delivery could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DeliveriesController.php:104
+msgid "The delivery has been deleted."
+msgstr ""
+
+#: Controller/DeliveriesController.php:106
+msgid "The delivery could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/I18nController.php:54 Controller/I18nController.php:78
+msgid "The i18n has been saved."
+msgstr ""
+
+#: Controller/I18nController.php:58 Controller/I18nController.php:82
+msgid "The i18n could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/I18nController.php:99
+msgid "The i18n has been deleted."
+msgstr ""
+
+#: Controller/I18nController.php:101
+msgid "The i18n could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/PhotosController.php:57 Controller/PhotosController.php:82
+msgid "The photo has been saved."
+msgstr ""
+
+#: Controller/PhotosController.php:61 Controller/PhotosController.php:86
+msgid "The photo could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/PhotosController.php:104
+msgid "The photo has been deleted."
+msgstr ""
+
+#: Controller/PhotosController.php:106
+msgid "The photo could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/RolesController.php:54 Controller/RolesController.php:78
+msgid "The role has been saved."
+msgstr ""
+
+#: Controller/RolesController.php:58 Controller/RolesController.php:82
+msgid "The role could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/RolesController.php:99
+msgid "The role has been deleted."
+msgstr ""
+
+#: Controller/RolesController.php:101
+msgid "The role could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:76 Controller/UsersController.php:100
+msgid "The user has been saved."
+msgstr ""
+
+#: Controller/UsersController.php:80 Controller/UsersController.php:104
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:121
+msgid "The user has been deleted."
+msgstr ""
+
+#: Controller/UsersController.php:123
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: Template/Companies/add.ctp:9 Template/Companies/edit.ctp:9
+#: Template/Companies/index.ctp:9 Template/Companies/index.ctp:30
+#: Template/Companies/view.ctp:9 Template/Companies/view.ctp:66
+#: Template/Companies/view.ctp:99 Template/Deliveries/add.ctp:9
+#: Template/Deliveries/edit.ctp:9 Template/Deliveries/index.ctp:9
+#: Template/Deliveries/index.ctp:26 Template/Deliveries/view.ctp:9
+#: Template/I18n/add.ctp:9 Template/I18n/edit.ctp:9 Template/I18n/index.ctp:9
+#: Template/I18n/index.ctp:23 Template/I18n/view.ctp:9
+#: Template/Photos/add.ctp:9 Template/Photos/edit.ctp:9
+#: Template/Photos/index.ctp:9 Template/Photos/index.ctp:26
+#: Template/Photos/view.ctp:9 Template/Roles/add.ctp:9
+#: Template/Roles/edit.ctp:9 Template/Roles/index.ctp:9
+#: Template/Roles/index.ctp:22 Template/Roles/view.ctp:9
+#: Template/Roles/view.ctp:45 Template/Users/add.ctp:9
+#: Template/Users/edit.ctp:9 Template/Users/index.ctp:9
+#: Template/Users/index.ctp:28 Template/Users/view.ctp:9
+#: Template/Users/view.ctp:60
+msgid "Actions"
+msgstr ""
+
+#: Template/Companies/add.ctp:10 Template/Companies/edit.ctp:16
+#: Template/Companies/view.ctp:12 Template/Deliveries/add.ctp:11
+#: Template/Deliveries/edit.ctp:17 Template/Deliveries/index.ctp:11
+#: Template/Deliveries/view.ctp:14 Template/Photos/add.ctp:11
+#: Template/Photos/edit.ctp:17 Template/Photos/index.ctp:11
+#: Template/Photos/view.ctp:14 Template/Users/add.ctp:13
+#: Template/Users/edit.ctp:19 Template/Users/index.ctp:13
+#: Template/Users/view.ctp:16
+msgid "List Companies"
+msgstr "Liste des entreprises"
+
+#: Template/Companies/add.ctp:11 Template/Companies/edit.ctp:17
+#: Template/Companies/index.ctp:11 Template/Companies/view.ctp:14
+#: Template/Roles/add.ctp:11 Template/Roles/edit.ctp:17
+#: Template/Roles/index.ctp:11 Template/Roles/view.ctp:14
+#: Template/Users/add.ctp:10 Template/Users/edit.ctp:16
+#: Template/Users/view.ctp:12
+msgid "List Users"
+msgstr "Liste des utilisateurs"
+
+#: Template/Companies/add.ctp:12 Template/Companies/edit.ctp:18
+#: Template/Companies/index.ctp:12 Template/Companies/view.ctp:15
+#: Template/Roles/add.ctp:12 Template/Roles/edit.ctp:18
+#: Template/Roles/index.ctp:12 Template/Roles/view.ctp:15
+#: Template/Users/index.ctp:10 Template/Users/view.ctp:13
+msgid "New User"
+msgstr "Nouvel utilisateur"
+
+#: Template/Companies/add.ctp:13 Template/Companies/edit.ctp:19
+#: Template/Companies/index.ctp:13 Template/Companies/view.ctp:16
+#: Template/Deliveries/add.ctp:10 Template/Deliveries/edit.ctp:16
+#: Template/Deliveries/view.ctp:12
+msgid "List Deliveries"
+msgstr "Livraisons de listes"
+
+#: Template/Companies/add.ctp:14 Template/Companies/edit.ctp:20
+#: Template/Companies/index.ctp:14 Template/Companies/view.ctp:17
+#: Template/Deliveries/index.ctp:10 Template/Deliveries/view.ctp:13
+msgid "New Delivery"
+msgstr "Nouvelle livraison"
+
+#: Template/Companies/add.ctp:15 Template/Companies/edit.ctp:21
+#: Template/Companies/index.ctp:15 Template/Companies/view.ctp:18
+#: Template/Photos/add.ctp:10 Template/Photos/edit.ctp:16
+#: Template/Photos/view.ctp:12
+msgid "List Photos"
+msgstr "Liste des photos"
+
+#: Template/Companies/add.ctp:16 Template/Companies/edit.ctp:22
+#: Template/Companies/index.ctp:16 Template/Companies/view.ctp:19
+#: Template/Photos/index.ctp:10 Template/Photos/view.ctp:13
+msgid "New Photo"
+msgstr "Nouvelle photo"
+
+#: Template/Companies/add.ctp:22
+msgid "Add Company"
+msgstr "Ajouter une entreprise"
+
+#: Template/Companies/add.ctp:30 Template/Companies/edit.ctp:36
+#: Template/Deliveries/add.ctp:26 Template/Deliveries/edit.ctp:32
+#: Template/I18n/add.ctp:25 Template/I18n/edit.ctp:31
+#: Template/Photos/add.ctp:28 Template/Photos/edit.ctp:34
+#: Template/Roles/add.ctp:24 Template/Roles/edit.ctp:30
+#: Template/Users/add.ctp:27 Template/Users/edit.ctp:33
+msgid "Submit"
+msgstr "Soumettre"
+
+#: Template/Companies/edit.ctp:11 Template/Companies/index.ctp:45
+#: Template/Companies/view.ctp:80 Template/Companies/view.ctp:113
+#: Template/Deliveries/edit.ctp:11 Template/Deliveries/index.ctp:41
+#: Template/I18n/edit.ctp:11 Template/I18n/index.ctp:37
+#: Template/Photos/edit.ctp:11 Template/Photos/index.ctp:41
+#: Template/Roles/edit.ctp:11 Template/Roles/index.ctp:33
+#: Template/Roles/view.ctp:58 Template/Users/edit.ctp:11
+#: Template/Users/index.ctp:43 Template/Users/view.ctp:74
+msgid "Delete"
+msgstr "Supprimer"
+
+#: Template/Companies/edit.ctp:13 Template/Companies/index.ctp:45
+#: Template/Companies/view.ctp:11 Template/Companies/view.ctp:80
+#: Template/Companies/view.ctp:113 Template/Deliveries/edit.ctp:13
+#: Template/Deliveries/index.ctp:41 Template/Deliveries/view.ctp:11
+#: Template/I18n/edit.ctp:13 Template/I18n/index.ctp:37
+#: Template/I18n/view.ctp:11 Template/Photos/edit.ctp:13
+#: Template/Photos/index.ctp:41 Template/Photos/view.ctp:11
+#: Template/Roles/edit.ctp:13 Template/Roles/index.ctp:33
+#: Template/Roles/view.ctp:11 Template/Roles/view.ctp:58
+#: Template/Users/edit.ctp:13 Template/Users/index.ctp:43
+#: Template/Users/view.ctp:11 Template/Users/view.ctp:74
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: Template/Companies/edit.ctp:28 Template/Companies/view.ctp:10
+msgid "Edit Company"
+msgstr "Société d'édition"
+
+#: Template/Companies/index.ctp:10 Template/Companies/view.ctp:13
+#: Template/Deliveries/add.ctp:12 Template/Deliveries/edit.ctp:18
+#: Template/Deliveries/index.ctp:12 Template/Deliveries/view.ctp:15
+#: Template/Photos/add.ctp:12 Template/Photos/edit.ctp:18
+#: Template/Photos/index.ctp:12 Template/Photos/view.ctp:15
+#: Template/Users/add.ctp:14 Template/Users/edit.ctp:20
+#: Template/Users/index.ctp:14 Template/Users/view.ctp:17
+msgid "New Company"
+msgstr "Nouvelle société"
+
+#: Template/Companies/index.ctp:20
+msgid "Companies"
+msgstr "Entreprises"
+
+#: Template/Companies/index.ctp:43 Template/Companies/view.ctp:78
+#: Template/Companies/view.ctp:111 Template/Deliveries/index.ctp:39
+#: Template/I18n/index.ctp:35 Template/Photos/index.ctp:39
+#: Template/Roles/index.ctp:31 Template/Roles/view.ctp:56
+#: Template/Users/index.ctp:41 Template/Users/view.ctp:72
+msgid "View"
+msgstr ""
+
+#: Template/Companies/index.ctp:44 Template/Companies/view.ctp:79
+#: Template/Companies/view.ctp:112 Template/Deliveries/index.ctp:40
+#: Template/I18n/index.ctp:36 Template/Photos/index.ctp:40
+#: Template/Roles/index.ctp:32 Template/Roles/view.ctp:57
+#: Template/Users/index.ctp:42 Template/Users/view.ctp:73
+msgid "Edit"
+msgstr "Éditer"
+
+#: Template/Companies/index.ctp:53 Template/Deliveries/index.ctp:49
+#: Template/I18n/index.ctp:45 Template/Photos/index.ctp:49
+#: Template/Roles/index.ctp:41 Template/Users/index.ctp:51
+msgid "first"
+msgstr "première"
+
+#: Template/Companies/index.ctp:54 Template/Deliveries/index.ctp:50
+#: Template/I18n/index.ctp:46 Template/Photos/index.ctp:50
+#: Template/Roles/index.ctp:42 Template/Users/index.ctp:52
+msgid "previous"
+msgstr "précédent"
+
+#: Template/Companies/index.ctp:56 Template/Deliveries/index.ctp:52
+#: Template/I18n/index.ctp:48 Template/Photos/index.ctp:52
+#: Template/Roles/index.ctp:44 Template/Users/index.ctp:54
+msgid "next"
+msgstr "suivant"
+
+#: Template/Companies/index.ctp:57 Template/Deliveries/index.ctp:53
+#: Template/I18n/index.ctp:49 Template/Photos/index.ctp:53
+#: Template/Roles/index.ctp:45 Template/Users/index.ctp:55
+msgid "last"
+msgstr "dernier"
+
+#: Template/Companies/index.ctp:59 Template/Deliveries/index.ctp:55
+#: Template/I18n/index.ctp:51 Template/Photos/index.ctp:55
+#: Template/Roles/index.ctp:47 Template/Users/index.ctp:57
+msgid ""
+"Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} "
+"total"
+msgstr ""
+
+#: Template/Companies/view.ctp:11
+msgid "Delete Company"
+msgstr "Supprimer une société"
+
+#: Template/Companies/view.ctp:26 Template/Companies/view.ctp:61
+#: Template/Deliveries/view.ctp:26 Template/Roles/view.ctp:22
+#: Template/Users/view.ctp:54
+msgid "Name"
+msgstr "Nom"
+
+#: Template/Companies/view.ctp:30
+msgid "User"
+msgstr "Utilisateur"
+
+#: Template/Companies/view.ctp:34 Template/Users/view.ctp:59
+msgid "Slug"
+msgstr ""
+
+#: Template/Companies/view.ctp:38 Template/Companies/view.ctp:59
+#: Template/Companies/view.ctp:92 Template/Deliveries/view.ctp:30
+#: Template/I18n/view.ctp:32 Template/Photos/view.ctp:38
+#: Template/Roles/view.ctp:26 Template/Roles/view.ctp:39
+#: Template/Users/view.ctp:36 Template/Users/view.ctp:53
+msgid "Id"
+msgstr ""
+
+#: Template/Companies/view.ctp:42 Template/Companies/view.ctp:64
+#: Template/Deliveries/view.ctp:38 Template/Roles/view.ctp:43
+#: Template/Users/view.ctp:40 Template/Users/view.ctp:57
+msgid "Created"
+msgstr "Créé"
+
+#: Template/Companies/view.ctp:46 Template/Companies/view.ctp:65
+#: Template/Deliveries/view.ctp:42 Template/Roles/view.ctp:44
+#: Template/Users/view.ctp:44 Template/Users/view.ctp:58
+msgid "Modified"
+msgstr "Modifié"
+
+#: Template/Companies/view.ctp:51 Template/Users/view.ctp:56
+msgid "Phone"
+msgstr "Téléphone :"
+
+#: Template/Companies/view.ctp:55
+msgid "Related Deliveries"
+msgstr "Livraisons connexes"
+
+#: Template/Companies/view.ctp:60 Template/Companies/view.ctp:93
+msgid "Company Id"
+msgstr "Société Id"
+
+#: Template/Companies/view.ctp:62 Template/Deliveries/view.ctp:47
+msgid "Comment"
+msgstr "Commentaire"
+
+#: Template/Companies/view.ctp:63 Template/Deliveries/view.ctp:34
+msgid "Price"
+msgstr "Prix"
+
+#: Template/Companies/view.ctp:88
+msgid "Related Photos"
+msgstr "Photos liées"
+
+#: Template/Companies/view.ctp:94 Template/Photos/view.ctp:26
+msgid "Title"
+msgstr ""
+
+#: Template/Companies/view.ctp:95 Template/Photos/view.ctp:30
+msgid "Owner"
+msgstr ""
+
+#: Template/Companies/view.ctp:96 Template/Photos/view.ctp:42
+msgid "Date"
+msgstr ""
+
+#: Template/Companies/view.ctp:97 Template/Photos/view.ctp:47
+#: Template/Roles/view.ctp:31
+msgid "Description"
+msgstr ""
+
+#: Template/Companies/view.ctp:98 Template/Photos/view.ctp:34
+msgid "Filename"
+msgstr ""
+
+#: Template/Deliveries/add.ctp:18
+msgid "Add Delivery"
+msgstr ""
+
+#: Template/Deliveries/edit.ctp:24 Template/Deliveries/view.ctp:10
+msgid "Edit Delivery"
+msgstr ""
+
+#: Template/Deliveries/index.ctp:16
+msgid "Deliveries"
+msgstr ""
+
+#: Template/Deliveries/view.ctp:11
+msgid "Delete Delivery"
+msgstr ""
+
+#: Template/Deliveries/view.ctp:22 Template/Photos/view.ctp:22
+msgid "Company"
+msgstr ""
+
+#: Template/I18n/add.ctp:10 Template/I18n/edit.ctp:16 Template/I18n/view.ctp:12
+msgid "List I18n"
+msgstr ""
+
+#: Template/I18n/add.ctp:16
+msgid "Add I18n"
+msgstr ""
+
+#: Template/I18n/edit.ctp:22 Template/I18n/view.ctp:10
+msgid "Edit I18n"
+msgstr ""
+
+#: Template/I18n/index.ctp:10 Template/I18n/view.ctp:13
+msgid "New I18n"
+msgstr ""
+
+#: Template/I18n/index.ctp:14
+msgid "I18n"
+msgstr ""
+
+#: Template/I18n/view.ctp:11
+msgid "Delete I18n"
+msgstr ""
+
+#: Template/I18n/view.ctp:20
+msgid "Locale"
+msgstr ""
+
+#: Template/I18n/view.ctp:24
+msgid "Model"
+msgstr ""
+
+#: Template/I18n/view.ctp:28
+msgid "Field"
+msgstr ""
+
+#: Template/I18n/view.ctp:36
+msgid "Foreign Key"
+msgstr ""
+
+#: Template/I18n/view.ctp:41
+msgid "Content"
+msgstr ""
+
+#: Template/Layout/error.ctp:36
+msgid "Error"
+msgstr ""
+
+#: Template/Layout/error.ctp:44
+msgid "Back"
+msgstr ""
+
+#: Template/Photos/add.ctp:18
+msgid "Add Photo"
+msgstr ""
+
+#: Template/Photos/edit.ctp:24 Template/Photos/view.ctp:10
+msgid "Edit Photo"
+msgstr ""
+
+#: Template/Photos/index.ctp:16
+msgid "Photos"
+msgstr ""
+
+#: Template/Photos/view.ctp:11
+msgid "Delete Photo"
+msgstr ""
+
+#: Template/Roles/add.ctp:10 Template/Roles/edit.ctp:16
+#: Template/Roles/view.ctp:12 Template/Users/add.ctp:11
+#: Template/Users/edit.ctp:17 Template/Users/index.ctp:11
+#: Template/Users/view.ctp:14
+msgid "List Roles"
+msgstr ""
+
+#: Template/Roles/add.ctp:18
+msgid "Add Role"
+msgstr ""
+
+#: Template/Roles/edit.ctp:24 Template/Roles/view.ctp:10
+msgid "Edit Role"
+msgstr ""
+
+#: Template/Roles/index.ctp:10 Template/Roles/view.ctp:13
+#: Template/Users/add.ctp:12 Template/Users/edit.ctp:18
+#: Template/Users/index.ctp:12 Template/Users/view.ctp:15
+msgid "New Role"
+msgstr ""
+
+#: Template/Roles/index.ctp:16
+msgid "Roles"
+msgstr ""
+
+#: Template/Roles/view.ctp:11
+msgid "Delete Role"
+msgstr ""
+
+#: Template/Roles/view.ctp:35
+msgid "Related Users"
+msgstr ""
+
+#: Template/Roles/view.ctp:40
+msgid "Role Id"
+msgstr ""
+
+#: Template/Roles/view.ctp:41 Template/Users/view.ctp:28
+msgid "Email"
+msgstr ""
+
+#: Template/Roles/view.ctp:42 Template/Users/view.ctp:32
+msgid "Password"
+msgstr ""
+
+#: Template/Users/add.ctp:20
+msgid "Add User"
+msgstr ""
+
+#: Template/Users/edit.ctp:26 Template/Users/view.ctp:10
+msgid "Edit User"
+msgstr ""
+
+#: Template/Users/index.ctp:18
+msgid "Users"
+msgstr ""
+
+#: Template/Users/view.ctp:11
+msgid "Delete User"
+msgstr ""
+
+#: Template/Users/view.ctp:24
+msgid "Role"
+msgstr ""
+
+#: Template/Users/view.ctp:49
+msgid "Related Companies"
+msgstr ""
+
+#: Template/Users/view.ctp:55
+msgid "User Id"
+msgstr ""
